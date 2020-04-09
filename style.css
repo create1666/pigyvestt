@@ -1,0 +1,41 @@
+body{
+    background-color: #ADD8E6;
+    }
+
+        
+    .BG {
+        position: fixed;
+      }
+      
+      .blueImg {
+        position: absolute;
+        width: 207px;
+        left: -8px;
+        top: -73px;
+      }
+      
+      .pinkImg {
+        position: absolute;
+        top: 30em;
+        left: -97px;
+        width: 226px;
+      }
+      
+      .purpleImg {
+        position: absolute;
+        width: 207px;
+        left: 72em;
+        top: 28em;
+      }
+      
+      .greenImg {
+        position: fixed;
+        width: 176px;
+        left: 73em;
+        z-index: -5;
+      }
+      
+     
+      
+      
+      
